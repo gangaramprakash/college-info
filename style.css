@@ -12,3 +12,8 @@ h1{
 p{
     color:pink;
 }
+ul{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
